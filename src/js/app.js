@@ -1,4 +1,4 @@
-import './scss/style.scss';
+import '../scss/app.scss';
 
 const h1 = document.querySelector('h1');
 
